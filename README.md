@@ -23,7 +23,7 @@ Berikut adalah beberapa tampilan UI aplikasi **Sansgen** yang ada pada folder `a
 ### 4. Halaman Kategori Buku
 ![kategori.png](assets/docs/kategori.png "Categories Page")
 
-### 5. Halaman Rekomendasi Buku
+### 5. Halaman Riwayat Baca
 ![r_b.png](assets/docs/r_b.png "Recommended Books Page")
 
 ### 6. Halaman Profil Pengguna
@@ -32,13 +32,13 @@ Berikut adalah beberapa tampilan UI aplikasi **Sansgen** yang ada pada folder `a
 ### 7. Halaman Pembayaran
 ![payment.png](assets/docs/payment.png "Payment Page")
 
-### 8. Halaman Pencarian Buku
+### 8. Halaman Detai Buku (Like, Rating, & Comment)
 ![s_r_k.png](assets/docs/s_r_k.png "Search Books Page")
 
 ### 9. Halaman Membaca Buku
 ![reading.png](assets/docs/reading.png "Reading Page")
 
-### 10. Halaman Audio
+### 10. Halaman Audio Buku
 ![audio.png](assets/docs/audio.png "Audio Page")
 
 
