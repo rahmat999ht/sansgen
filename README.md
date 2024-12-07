@@ -54,5 +54,5 @@ Berikut adalah beberapa tampilan UI aplikasi **Sansgen** yang ada pada folder `a
 - Pastikan Anda mengizinkan untuk menginstall aplikasi pada sumber berbeda di sistem android Anda.
 
 ### Langkah-langkah untuk instalasi:
-1. Download file ini:
+- Download file ini:
 ![app-debug.apk](assets/docs/app-debug.apk "File APP")
