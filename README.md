@@ -51,10 +51,8 @@ Berikut adalah beberapa tampilan UI aplikasi **Sansgen** yang ada pada folder `a
 ## Instalasi
 
 ### Prasyarat:
-- Pastikan Anda memiliki **Flutter** dan **Dart SDK** terinstal di sistem Anda.
-- **Composer** dan **Laravel** untuk backend.
+- Pastikan Anda mengizinkan untuk menginstall aplikasi pada sumber berbeda di sistem android Anda.
 
 ### Langkah-langkah untuk instalasi:
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/repo-sansgen.git
+1. Download file ini:
+![app-debug.apk](assets/docs/app-debug.apk "File APP")
