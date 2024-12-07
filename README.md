@@ -47,6 +47,7 @@ Berikut adalah beberapa tampilan UI aplikasi **Sansgen** yang ada pada folder `a
 - **GetX** untuk state management.
 - **Laravel** untuk backend dan manajemen admin.
 - **MySQL** untuk database.
+- **Midtrans** untuk pembayaran.
 
 ## Instalasi
 
